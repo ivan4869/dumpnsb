@@ -1,0 +1,1 @@
+dump nsb to txt for editting
